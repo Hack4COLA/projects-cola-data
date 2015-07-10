@@ -1,6 +1,6 @@
-# Hack4COLA Website
+# Projects using LA County data.
 
-This is 
+This is a page to track projects that use County data.
 
 ## Installation
 
