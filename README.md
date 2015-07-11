@@ -17,7 +17,8 @@ This is a page to track projects that use County data.
 
 1. Add the project's `name` and the `URL` of its GitHub repository, Trello group, Google Doc, or wherever the latest updates are publicly available. Use Markdown format for links, like `[Project Name](https://github.com/your-repo-here)`
 2. Add a `description` of the project.
-3. Add a `contact` place, person, or group for the project.
+3. Add the `data used` info - the County datasets used in this project.
+4. Add a `contact` place, person, or group for the project.
 
 <!--
 2. Add a `status`. Suggestions: `brainstorming`, `organizing`, `wireframing`, `getting data`, `cleaning data`, `testing`, `working on front-end`, `working on back-end`, `testing`.
