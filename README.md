@@ -9,10 +9,9 @@ This is a page to track projects that use County data.
 | [LA Building Age](https://github.com/cityhubla/LA_Building_Age) | | 
 -->
 
-| Name  | Description | Contact |
-| ---- | ---- | ----|
-| [County Data Projects](https://github.com/Hack4COLA/projects-cola-data/)  | Github repo tracking projects that use County data.  Open to contributions. | [Nina Kin](https://twitter.com/ninakin9) |
-| [LA Building Age](https://github.com/cityhubla/LA_Building_Age) | A map that shows buildings in LA based on their age. | [Omar Ureta](https://twitter.com/theworksla) |
+| Name | Description | Data Used | Contact |
+| ---- | ----------- | --------- | ------- |
+| [LA Building Age](https://github.com/cityhubla/LA_Building_Age) | A map that shows buildings in LA based on their age. | Assessor Parcel Data | [Omar Ureta](https://twitter.com/theworksla) |
 
 ## Usage
 
